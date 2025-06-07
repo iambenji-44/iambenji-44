@@ -1,30 +1,27 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
-<h3 align="center">A passionate fullstack developer [LEARNER]</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iambenji-44&label=Profile%20views&color=0e75b6&style=flat" alt="iambenji-44" /> </p>
+# 💫 About Me:
+🔭 I’m currently working on building real-world projects.<br><br>🌱 I’m currently learning Fullstack Dev.<br><br>📫 How to reach me  adjabengtwumbenjamin@gmail.com<br><br>⚡ Fun fact : I am also a Mechanical Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iambenji-44" alt="iambenji-44" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iambenji_44" target="blank"><img src="https://img.shields.io/twitter/follow/iambenji_44?logo=twitter&style=for-the-badge" alt="iambenji_44" /></a> </p>
+## 🌐 Socials:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/de_krypt44) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/iambenji_44) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adjabengtwumbenjamin@gmail.com) 
 
-- 🔭 I’m currently working on **building real-world projects.**
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iambenji-44&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iambenji-44&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iambenji-44&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-- 🌱 I’m currently learning **Fullstack Dev**
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-- 👨‍💻 All of my projects are available at [https://github.com/iambenji-44](https://github.com/iambenji-44)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iambenji-44&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **adjabengtwumbenjamin@gmail.com**
+---
+[![](https://visitcount.itsvg.in/api?id=iambenji-44&icon=4&color=13)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I am very curious.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iambenji_44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iambenji_44" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iambenji-44&show_icons=true&locale=en&layout=compact" alt="iambenji-44" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iambenji-44&show_icons=true&locale=en" alt="iambenji-44" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
